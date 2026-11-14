@@ -1,5 +1,7 @@
 # cc+Anything
 
+中文 | [English](README.en.md)
+
 用 Claude Code 纯代码复刻爆款视频。每一期开源**动线图**（制作流程设计）和**提示词**，付费生成调用为 0，全部本地渲染。
 
 抖音账号：cc+Anything
