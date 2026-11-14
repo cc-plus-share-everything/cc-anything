@@ -8,9 +8,10 @@
 
 ## 期数
 
-| 期 | 复刻对象 | 技术 | 文档 |
+| 期 | 内容 | 技术 | 文档 |
 |---|---|---|---|
 | 01 | 《中华民族的救亡图存》3D 拼图地图（2:09） | Blender Python + PIL + ffmpeg | [01-jindaishi-puzzle-map](01-jindaishi-puzzle-map/) |
+| 02 | 秦灭六国 3D 拼图地图（竖屏 1:20，沿用 01 的形式换题材，带旁白和音效） | Blender Python + PIL + shapely + 本地语音合成 + ffmpeg | [02-qin-unification-puzzle-map](02-qin-unification-puzzle-map/) |
 
 ## 每期目录里有什么
 
